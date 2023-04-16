@@ -1,0 +1,28 @@
+.location-icon{
+  color: white;
+}
+
+/* .logo{
+  margin-top: 3px;
+}
+.location{
+  margin-top: 3px;
+
+} */
+/* *, :after, :before {
+  border: 0 solid #e5e7eb;
+  box-sizing: border-box;
+} */
+
+.mt-3{
+  margin-top: 0.5rem;
+}
+.top_bar{
+  height: 70px;
+  color: white;
+}
+
+/* .cart_num{
+  position: absolute;
+  top: 2px;
+} */
